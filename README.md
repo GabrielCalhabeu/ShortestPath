@@ -1,7 +1,7 @@
 # Shortest Path
 
 <p>
-  <img src="https://github.com/GabrielCalhabeu/ShortestPath/blob/main/Assets/Example.png" alt="Shortest-Path">
+  <img src="https://github.com/GabrielCalhabeu/ShortestPath/blob/main/assets/Example.png" alt="Shortest-Path">
 </p>
 
 A console program to find the shortest path using 3 different types of algorithms.
